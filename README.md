@@ -184,3 +184,8 @@ When the user implements this so called **abstract behaviours**, they immediatel
 Namespace refers to all identifiers defined within a particular scope.
 
 Nesting a class within another class allows grouping functionalities into different scopes or namespaces
+
+---|||
+## Reference Material
+
+Data Structures and Algorithms in Python - Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
